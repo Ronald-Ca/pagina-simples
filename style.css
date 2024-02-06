@@ -48,3 +48,9 @@ footer a + a {
 
     border: 1px solid #ECEFF2;
 }
+
+#balls {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
