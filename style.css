@@ -2,6 +2,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     margin: 0;
+
+    background-color: #e3f1f8;
 }
 
 #hero {
@@ -10,7 +12,7 @@ body {
 }
 
 #hero img {
-    margin-bottom: 72px;
+    margin-bottom: 32px;
 }
 
 h1 {
@@ -27,7 +29,7 @@ h1 span {
 }
 
 span, a {
-    color: #FF9900;
+    color: #5ba663;
 }
 
 p, footer {
@@ -46,11 +48,32 @@ footer a + a {
     height: 0;
     margin: 0 auto 8px;
 
-    border: 1px solid #ECEFF2;
+    border: 1px solid #424242;
 }
 
 #balls {
     position: absolute;
     bottom: 0;
     right: 0;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer .link  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+footer .link a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
 }
