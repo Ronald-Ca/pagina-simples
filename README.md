@@ -1,15 +1,12 @@
 # Página Web Simples
 
-> Explorer Rocketseat
-
-
-💻 Este é projeto personalizado por mim 👇
+> Este é projeto personalizado por mim 👇
 
 ![preview](./images/projeto_personalizado.png)
 
 #
 
-💻 Este é o projeto criado acompanhando as aulas 👇
+> Este é o projeto criado acompanhando as aulas 👇
 
 ![preview](./images/projeto_base.png)
 
