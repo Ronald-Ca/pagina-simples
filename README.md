@@ -10,7 +10,7 @@
 
 ![preview](./images/projeto_base.png)
 
-[🔗 Clique aqui para acessar a página](https://ronald-ca.github.io/nlw-site-explorer/)
+[🔗 Clique aqui para acessar a página](https://ronald-ca.github.io/pagina-simples/)
 
 ## 📌 Tecnologias
 
