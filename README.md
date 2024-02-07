@@ -1,12 +1,16 @@
 # Página Web Simples
 
-> Explorer Rocketseat
+> Este é projeto personalizado por mim 👇
 
-![preview](./.github/projeto_base.png)
+![preview](./images/projeto_personalizado.png)
 
-Este é projeto personalizado por mim.
+#
 
-[🔗 Clique aqui para acessar a página](https://ronald-ca.github.io/nlw-site-explorer/)
+> Este é o projeto criado acompanhando as aulas 👇
+
+![preview](./images/projeto_base.png)
+
+[🔗 Clique aqui para acessar a página](https://ronald-ca.github.io/pagina-simples/)
 
 ## 📌 Tecnologias
 
