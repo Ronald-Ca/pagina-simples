@@ -7,6 +7,8 @@
 
 ![preview](./images/projeto_personalizado.png)
 
+#
+
 💻 Este é o projeto criado acompanhando as aulas 👇
 
 ![preview](./images/projeto_base.png)
