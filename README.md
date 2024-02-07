@@ -2,7 +2,7 @@
 
 > Explorer Rocketseat
 
-![preview](./.github/preview.png)
+![preview](./.github/projeto_base.png)
 
 Este é projeto personalizado por mim.
 
